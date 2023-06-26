@@ -33,5 +33,5 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. AI and career development
 18. AI and entrepreneurship
 19. AI and financial planning
-20. AI and sustainable living.
+20. AI and sustainable living
 
