@@ -1,4 +1,4 @@
-Enhancing Mental Health and Well-being with AI - Personalized Interventions for Stress Management and Anxiety
+Personalized Interventions for Stress Management and Anxiety
 ========================================================================================================================
 
 Mental health and well-being are essential for optimal living, and AI technology can assist individuals in managing stress and anxiety. In this chapter, we will explore how AI-powered interventions can provide personalized support for stress management and anxiety.

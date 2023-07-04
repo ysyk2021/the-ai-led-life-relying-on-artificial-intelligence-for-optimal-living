@@ -1,4 +1,4 @@
-Building a Supportive Network with AI - Addressing Potential Challenges and Ethical Considerations in Using AI for Building Social Networks
+Addressing Potential Challenges and Ethical Considerations in Using AI for Building Social Networks
 ======================================================================================================================================================
 
 While AI-powered social networks offer numerous benefits for building supportive communities, there are potential challenges and ethical considerations that must be addressed to ensure that everyone has equal access to networking opportunities. In this chapter, we will explore some of these challenges and considerations.
