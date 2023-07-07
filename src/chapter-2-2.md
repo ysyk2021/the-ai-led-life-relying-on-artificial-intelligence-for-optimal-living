@@ -1,4 +1,4 @@
-Natural Language Processing, Machine Learning, and Deep Learning
+Types of AI: natural language processing, machine learning, and deep learning
 ======================================================================================================================================
 
 Artificial Intelligence (AI) technology is transforming the way we live and work, providing personalized recommendations and support. In this chapter, we will explore the different types of AI technology and their applications for personal use.
