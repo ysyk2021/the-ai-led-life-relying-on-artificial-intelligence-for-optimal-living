@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Mental Health and Well-being with AI
-=========================================================
 
 Mental health is a critical component of overall well-being, yet many individuals struggle with mental health challenges such as stress, anxiety, and depression. Artificial Intelligence (AI) has enormous potential to support mental health and well-being by providing personalized interventions and support.
 
