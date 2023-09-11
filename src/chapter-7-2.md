@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Biases in AI Algorithms
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the critical issue of potential biases in artificial intelligence (AI) algorithms and explore strategies to address these biases. As AI becomes more prevalent in our lives, it is crucial to ensure that the technology we rely on does not perpetuate or amplify existing societal biases.
 

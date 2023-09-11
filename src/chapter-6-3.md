@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Challenges and Ethical Considerations in Using AI for Building Social Networks
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential challenges and ethical considerations associated with using artificial intelligence (AI) for building social networks. While AI offers numerous benefits in connecting individuals and enhancing social interactions, it is crucial to address potential pitfalls and ensure ethical practices are in place to protect user privacy, prevent bias, and foster healthy online communities.
 

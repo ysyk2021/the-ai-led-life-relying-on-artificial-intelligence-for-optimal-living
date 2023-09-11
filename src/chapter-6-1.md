@@ -1,5 +1,4 @@
-Chapter: Use of AI-Powered Social Networks for Building Supportive Communities
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of artificial intelligence (AI) in powering social networks to foster supportive communities. AI technologies offer unique opportunities for connecting individuals with shared interests, providing personalized support, and creating spaces where people can find encouragement and guidance from like-minded peers.
 

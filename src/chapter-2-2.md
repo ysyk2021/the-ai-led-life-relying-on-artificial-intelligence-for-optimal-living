@@ -1,5 +1,4 @@
-Chapter: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their applications. Specifically, we will delve into natural language processing (NLP), machine learning, and deep learning, highlighting their unique capabilities and contributions to the AI-led life for optimal living.
 

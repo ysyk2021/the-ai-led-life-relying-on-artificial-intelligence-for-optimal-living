@@ -1,5 +1,4 @@
-Chapter: Discussion of Ethical Considerations When Using AI for Personal Use
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that arise when using artificial intelligence (AI) for personal use. While AI offers numerous benefits in enhancing our lives, it is essential to recognize and address the ethical implications to ensure responsible and conscientious utilization.
 

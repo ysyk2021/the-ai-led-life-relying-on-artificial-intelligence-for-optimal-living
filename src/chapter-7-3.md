@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability in AI Adoption
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of transparency and accountability in the adoption of artificial intelligence (AI) technologies. As AI becomes increasingly integrated into various aspects of our lives, it is crucial to maintain transparency in how AI systems function and ensure mechanisms for accountability are in place to address potential risks and ethical concerns.
 

@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and Its Capabilities for Personal Use
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an explanation of artificial intelligence (AI) technology and its various capabilities for personal use. AI has the potential to enhance our daily lives by leveraging algorithms that can learn, reason, and make predictions. Understanding the basics of AI and how it can be utilized personally allows individuals to harness its power for optimal living.
 

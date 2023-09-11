@@ -1,5 +1,4 @@
-Chapter: Monitoring Health Data with AI Technology
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of artificial intelligence (AI) technology in monitoring health data, offering individuals valuable insights and personalized recommendations for optimal living. By leveraging AI algorithms to analyze and interpret health-related data, individuals can gain a deeper understanding of their well-being and make informed decisions about their health.
 

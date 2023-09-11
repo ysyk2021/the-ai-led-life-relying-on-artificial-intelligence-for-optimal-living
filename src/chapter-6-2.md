@@ -1,5 +1,4 @@
-Chapter: Connecting with Like-Minded Individuals and Finding Mentors with AI
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can facilitate the process of connecting with like-minded individuals and finding mentors to enhance our lives. AI technology has revolutionized the way we form relationships and seek guidance, opening up new opportunities for personal growth and development.
 
